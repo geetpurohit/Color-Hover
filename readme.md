@@ -19,7 +19,7 @@
 ### Step 1 : Download and unzip the code
 
 
-<img src="https://user-images.githubusercontent.com/68968629/143865600-5ca0219c-3b04-4a3a-b106-cf9e65d008f3.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/68968629/143865600-5ca0219c-3b04-4a3a-b106-cf9e65d008f3.jpg" width=50% height=70%>
 
 
 ### Step 2 : Make sure main.py and target image is in the same folder
