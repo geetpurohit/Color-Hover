@@ -24,8 +24,7 @@
 
 ### Step 2 : Make sure main.py and target image is in the same folder
 
-
-![Capture](https://user-images.githubusercontent.com/68968629/143866358-92da08f7-d04e-4062-a657-4f4d8bf63160.PNG)
+<img src="https://user-images.githubusercontent.com/68968629/143866358-92da08f7-d04e-4062-a657-4f4d8bf63160.PNG" width=70% height=70%>
 
 
 ### Step 3 : Run the main.py through your preferred choice of editor. It doesn't matter which IDE you choose. (hint: VScode is the right choice).
