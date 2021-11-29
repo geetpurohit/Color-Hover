@@ -1,9 +1,15 @@
 <H1 align="center">
-    RGBA Hover
+    Color Hover
 </H1>
 <H6 align="center">
-    using the Paczynski Model and point-source approximation
+    
 </H6>
-$-b \pm \sqrt{b^2 - 4ac} \over 2a$
-$x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}$
-$\forall x \in X, \quad \exists y \leq \epsilon$
+
+# Overview
+Get the RGBA (Red, Blue, Green, Alpha) value of any pixel in any image by just hovering over the image:
+
+
+![2021-11-29-06-49-26-online-video](https://user-images.githubusercontent.com/68968629/143863898-559a9ed6-744a-4826-a9dd-74e9bbaef7a4.gif)
+
+
+
