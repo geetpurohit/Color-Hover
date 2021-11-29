@@ -2,8 +2,6 @@
     Color Hover
 </H1>
 
-
-# Overview
 Get the RGBA (Red, Blue, Green, Alpha) value of any pixel in any image by just hovering over the image:
 
 
