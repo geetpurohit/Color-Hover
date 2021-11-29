@@ -20,7 +20,7 @@
 
 
 
-![Screenshot (3)_LI](https://user-images.githubusercontent.com/68968629/143865600-5ca0219c-3b04-4a3a-b106-cf9e65d008f3.jpg | width=100)
+![Screenshot (3)_LI](https://user-images.githubusercontent.com/68968629/143865600-5ca0219c-3b04-4a3a-b106-cf9e65d008f3.jpg){:height="50%" width="50%"}
 
 
 ### Step 2 : Make sure main.py and target image is in the same folder
