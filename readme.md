@@ -12,3 +12,16 @@
 
 
 
+# INSTRUCTIONS
+
+1. Download and unzip the code
+![Screenshot (3)_LI](https://user-images.githubusercontent.com/68968629/143865600-5ca0219c-3b04-4a3a-b106-cf9e65d008f3.jpg)
+2. Make sure main.py and target image is in the same folder
+![Capture](https://user-images.githubusercontent.com/68968629/143866358-92da08f7-d04e-4062-a657-4f4d8bf63160.PNG)
+4. Run the main.py through your preferred choice of editor. It doesn't matter which IDE you choose. (hint: VScode is the right choice).
+https://user-images.githubusercontent.com/68968629/143867288-8418c887-c6f6-4963-b93f-85e876cffc55.mp4
+5. Enjoy
+
+
+
+
