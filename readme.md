@@ -29,7 +29,7 @@
 ![Capture](https://user-images.githubusercontent.com/68968629/143866358-92da08f7-d04e-4062-a657-4f4d8bf63160.PNG)
 
 
-### Step 3 :Run the main.py through your preferred choice of editor. It doesn't matter which IDE you choose. (hint: VScode is the right choice).
+### Step 3 : Run the main.py through your preferred choice of editor. It doesn't matter which IDE you choose. (hint: VScode is the right choice).
 
 
 https://user-images.githubusercontent.com/68968629/143867288-8418c887-c6f6-4963-b93f-85e876cffc55.mp4
@@ -37,6 +37,19 @@ https://user-images.githubusercontent.com/68968629/143867288-8418c887-c6f6-4963-
 
 ### Step 4 : Enjoy!
 
+
+* Possible Bugs and solutions
+1. Library issues -> ```pip install``` the required libaries
+2. Python Interpreter issue (VSCode Specific) -> Check if you have selected an interpreter. Press Ctrl + Shift + P then Enter and then choose
+3. tkinter canvas issues -> image needs to always be in PNG format. Easily change it using Pillow. JPG to PNG example below:
+```
+from PIL import Image
+
+img = Image.open("target.jpg")
+temp = im.convert('RGB')
+temp.save('target.jpg')
+
+```
 
 
 
